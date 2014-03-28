@@ -1,3 +1,11 @@
+Features:
+
+* Works with multiple views of the same file
+* Doesn't mess up the undo tree (undoing the previous change undoes the fmt
+  with it)
+* Clears the error list when gofmt succeeds
+* Automatically hides/shows the error list
+
 vim-gofmt requires you to have the standard golang vim package installed. If
 you are using pathogen that is as easy as:
 
