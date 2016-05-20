@@ -1,3 +1,5 @@
+**This is deprecated. Please use [vim-go](https://github.com/fatih/vim-go)**
+
 Features
 ========
 
